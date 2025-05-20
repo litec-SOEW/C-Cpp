@@ -1,0 +1,29 @@
+{
+  "scripts": [".reveal/mermaid.min.js"],
+  "assetsDir": "assets",
+  "css": [".reveal/style.css"],
+  "glob": ["**/01-dataTypes/*.md","**/02-branching/*.md"],
+  "port": 1975,
+
+  "separator": "\r?\n\r?\n---\r?\n\r?\n",
+  "verticalSeparator": "\r?\n\r?\n----\r?\n\r?\n",
+
+  "theme": "beige",
+  "highlightTheme": "github-dark",
+
+  "revealOptions": {
+    "transition": "slide",
+    "slideNumber": "c/t",
+    "controls": true,
+    "progress": true,
+    "center": true,
+    "history": true,
+    "width": 1200,
+    "height": 900
+  },
+
+  "mermaid": {
+    "info": "BEWARE! Mermaid config here atm not working! Add your stuff directly to diagram!",
+    "theme": "forest"
+  }
+}
