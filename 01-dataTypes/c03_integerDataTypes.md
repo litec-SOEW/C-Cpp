@@ -144,7 +144,7 @@ $\small\boldsymbol{2^{32}} = 2^2\cdot2^{10}\cdot2^{10}\cdot2^{10}\approx4\cdot10
 - Siehe [C-HowTo](https://www.c-howto.de/tutorial) &rarr; Kapitel [Strings (Zeichenketten)](https://www.c-howto.de/tutorial/strings-zeichenketten/).
 - Felder (engl. *arrays*) vom Typ `char` werden auch **C-Strings** genannt.
 
-![image](./_img/c03-dataTypes-strings.png)
+![image](./_img/03-dataTypes-strings.png)
 
 ---
 
