@@ -105,6 +105,14 @@ $\small 0 \cdot 2^7 + \boldsymbol{1 \cdot 2^6} + 0 \cdot 2^5 + 0 \cdot 2^4 + 0 \
 
 ---
 
+#### Extended ASCII
+
+- Erfordert den Datentyp `unsigned char`.
+
+![image](./_img/03-dataTypes-extASCII.png)
+
+---
+
 #### Datentyp (`unsigned`) `char`
 
 | Name         | Größe   | Wertebereich ($\small2^8=256$) | Formatzeichen |
@@ -130,7 +138,7 @@ $\small\boldsymbol{2^{32}} = 2^2\cdot2^{10}\cdot2^{10}\cdot2^{10}\approx4\cdot10
 
 ---
 
-#### Datentyp (`unsigned`) `char`
+#### Datentyp (`unsigned`) `int`
 
 | Name         | Größe   | Wertebereich ($\small2^{32}\approx4\cdot10^9$) | Formatzeichen |
 | :------------ | -----: | -----------: |:-- |
