@@ -27,8 +27,7 @@ int main()
     else
     {
         // print error message and leave with code 1
-        printf("\nErr. 1:\n"
-                        "Neg. Kantenlaenge nicht definiert!\n");
+        printf("\nErr. 1: Neg. Kantenlaenge nicht definiert!\n");
         return 1;
     }
 

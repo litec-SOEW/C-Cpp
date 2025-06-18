@@ -59,9 +59,7 @@ C-Programmierung - Kapitel 5
 
 ---
 
-## Übung `b04_floatingPointNumbers`
-
-- C++ Template und Übungs-Angaben
+## Übung `b05_conditionals`
 
 ```c
 /*
@@ -111,12 +109,11 @@ int main()
 }
 ```
 
-
 - Abgabe im Kursnotizbuch - Arbeitsaufträge ...
 
-  - Quellcode von `b04_floatingPointNumber.cpp` als PDF und Ausdruck
+  - Quellcode von `b05_conditionals.cpp` als PDF und Ausdruck.
 
-  - Bildschirmausschnitt der Programmausgabe
+  - Bildschirmausschnitte zu den Programmläufen zu beiden Fällen.
 
 
 
