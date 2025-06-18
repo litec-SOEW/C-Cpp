@@ -59,6 +59,61 @@ C-Programmierung - Kapitel 5
 
 ---
 
+## Übung `b04_floatingPointNumbers`
+
+- C++ Template und Übungs-Angaben
+
+```c
+/*
+************************************************************************
+   
+b05_conditionals.cpp
+
+Summary:
+Program calculates billing charge for an online purchase based on unit
+price and amount purchased.
+
+Read unit price and amount purchased from stdin, and calculate total
+price.
+
+If total price is greater or equal to 35.00 Euros, the billing charge
+is equal to the total price minus 2 percent discount. Else, a shipping
+charge of 3.90 Euros (sybolic constant SHIPPING) is added to the total
+price.
+
+Independent of the above condition, the billing charge and the VAT
+(dt. USt.), which is 16.67 percent of the 
+
+************************************************************************
+*/
+
+#define _CRT_SECURE_NO_WARNINGS // allow scanf() in Visual C++
+
+#include <cstdlib>   // system()
+#include <cstdio>    // printf(), scanf()
+#include <iostream>  // cin, cout, endl
+using namespace std; // std::cout ---> cout
+
+
+/* main program */
+int main()
+{
+    
+    /* wait for keystroke */
+    // system("PAUSE");
+    
+    /* done */
+    return 0;
+}
+```
+
+
+- Abgabe im Kursnotizbuch - Arbeitsaufträge ...
+
+  - Quellcode von `b04_floatingPointNumber.cpp` als PDF und Ausdruck
+
+  - Bildschirmausschnitt der Programmausgabe
+
 
 
 
