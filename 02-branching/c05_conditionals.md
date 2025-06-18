@@ -82,7 +82,11 @@ charge of 3.90 Euros (sybolic constant SHIPPING) is added to the total
 price.
 
 Independent of the above condition, the billing charge and the VAT
-(dt. USt.), which is 16.67 percent of the 
+(dt. USt.), which is 16.67 percent of the billing charge are printed
+to screen:, e.g.,
+
+Gesamtpreis ...........     39.20 Euro
+Enthaltene USt. .......      6.55 Euro
 
 ************************************************************************
 */
@@ -102,7 +106,7 @@ int main()
     /* wait for keystroke */
     // system("PAUSE");
     
-    /* done */
+    /* exit success */
     return 0;
 }
 ```
