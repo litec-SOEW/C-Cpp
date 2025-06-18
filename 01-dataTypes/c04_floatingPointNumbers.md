@@ -112,3 +112,10 @@ int main()
     return 0;
 }
 ```
+
+
+- Abgabe im Kursnotizbuch - Arbeitsaufträge ...
+
+  - Quellcode von `b04_floatingPointNumber.cpp` als PDF und Ausdruck
+
+  - Bildschirmausschnitt der Programmausgabe

@@ -217,10 +217,10 @@ G:\SOEW\AINF\b03_strings> b03_strings.exe
         Monat:    August
         Jahr:     2007
         
-        Hallo, Walter Soellinger
+        Hallo, Walter Soellinger,
         Ihre Initialen lauten W. S.
         Ihr Geburtstag ist der
-        18. August 2007
+        18. August 2007.
 
 G:\SOEW\AINF\b03_strings>
 
@@ -249,6 +249,6 @@ int main()
 
 - Abgabe im Kursnotizbuch - Arbeitsaufträge ...
 
-  - Quellcode von `b03_strings.cpp` als Ausdruck
+  - Quellcode von `b03_strings.cpp` als PDF und Ausdruck
 
-  - Bildschirmausschnitt des Ausgabefensters
+  - Bildschirmausschnitt der Programmausgabe
