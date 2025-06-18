@@ -38,7 +38,7 @@ C-Programmierung - Kapitel 5
 
 - Die Kantenlänge wird über die Tastatur eingegeben.
 
-- **Falls** eine positive Kantenlänge eingegeben wird, solldas richtige Ergebnis berechnet und am Bildschirm ausgegeben werden, **ansonsten** soll die Ausgabe einer Fehlermeldung erfolgen.
+- **Falls** eine positive Kantenlänge eingegeben wird, soll das richtige Ergebnis berechnet und am Bildschirm ausgegeben werden, **ansonsten** soll die Ausgabe einer Fehlermeldung erfolgen und das Programm mit einem Fehlercode 1 schließen.
 
 - [&rarr; Lösung](./c05_if-else-xrcs.md)
 
@@ -58,6 +58,8 @@ C-Programmierung - Kapitel 5
 | kleiner oder gleich | `<=`     |
 
 ---
+
+
 
 
 
