@@ -32,6 +32,29 @@ C-Programmierung - Kapitel 5
 
 ---
 
+### Syntax einer Verzweigung
+
+- Die `if`-Anweisung erhält eine Bedingung (engl. *condidtion*).
+
+- Sie öffnet einen Block von Anweiungen (*statements 1*), der ausgeführt wird, wenn die Bedingung gilt.
+
+- Der `else`-Zweig ist **optional**.
+
+- Die darin enthaltenen Anweisungen (*statements 2*) werden ausgeführt, wenn die Bedingung nicht gilt.
+
+```c++
+if ( /* condition */ )
+{
+    /* statements 1 */
+}
+else
+{
+    /* statements 2 */
+}
+```
+
+---
+
 ## Übungsaufgabe
 
 - Erstelle ein Programm, das das Volumen eines Würfels berechnet und am Bildschirm ausgibt.
@@ -114,11 +137,4 @@ int main()
   - Quellcode von `b05_conditionals.cpp` als PDF und Ausdruck.
 
   - Bildschirmausschnitte zu den Programmläufen zu beiden Fällen.
-
-
-
-
-
-
-
 
